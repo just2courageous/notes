@@ -20,3 +20,14 @@
 * :wink: Wink
 * :blush: Blush
 * :upside_down_face: Upside down face
+
+## Keyboard shortcuts
+Shortcuts I frequently use: 
+- Ctrl-C (copy)
+- Ctrl-V (paste)
+- Ctrl-Z (undo)
+
+Shortcuts I would like to start using: 
+- Ctrl-A (select all)
+- Win-D (show desktop)
+- Windows + Shift + S (Snip & Sketch or Screenshot)
