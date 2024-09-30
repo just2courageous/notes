@@ -16,10 +16,10 @@
 * [GitHub Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet)
 
 # Experiments
-* :grinning: Grinning
-* :wink: Wink
-* :blush: Blush
-* :upside_down_face: Upside down face
+* 😀 Grinning
+* 😉 Wink
+* 😊 Blush
+* 🙃 Upside down face
 
 ## Keyboard shortcuts
 Shortcuts I frequently use: 
