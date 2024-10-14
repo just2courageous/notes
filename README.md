@@ -14,6 +14,7 @@
 * [Github Pages](https://pages.github.com/)
 * [Markdown Guide](https://www.markdownguide.org/)
 * [GitHub Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet)
+* [CLI commands](docs/cli.md)
 
 # Experiments
 * 😀 Grinning
