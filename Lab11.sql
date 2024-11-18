@@ -54,3 +54,8 @@ SELECT count(*)
 FROM assignments
 WHERE status = 'Not Started';
 
+-- Display course_id and course_name for courses with labs on Tuesday
+SELECT course_id, course_name
+FROM courses
+WHERE days LIKE 'Tue%';
+
